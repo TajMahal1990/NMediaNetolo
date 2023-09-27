@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">НМедиа</string>
+    <string name="channel_remote_description">Уведомления с удалённого сервера</string>
+    <string name="channel_remote_name">Уведомление сервера</string>
+    <string name="chooser_share_post">Поделиться постом</string>
+    <string name="clear">Очистить</string>
+    <string name="edit_message">Редактирование</string>
+    <string name="empty_content_error">Контент отсутствует</string>
+    <string name="empty_post_error">Пост пустой</string>
+    <string name="empty_posts">Постов нет.\nЕсли создадите новый пост, то он появится здесь</string>
+    <string name="error_loading">Что-то пошло не так. Попробуйте позже</string>
+    <string name="error_notification_text">Пожалуйста, обновите приложение для корректной работы</string>
+    <string name="error_notification_title">Вы используете старую версию приложения</string>
+    <string name="google_play_unavailable">Google API не доступен</string>
+    <string name="logout">Выйти</string>
+    <string name="main_screen_message">НМедиа!</string>
+    <string name="name">Имя</string>
+    <string name="new_posts">Свежие записи</string>
+    <string name="notification_user_liked">Пользователь %1$s поставил лайк посту %2$s</string>
+    <string name="notification_user_login">Вошел пользователь под номером %1$s</string>
+    <string name="notification_user_new_posted">%1$s опубликовал новый пост</string>
+    <string name="post_input_text_hint">Введите текст поста</string>
+    <string name="post_menu_remove">Удалить</string>
+    <string name="post_menu_edit">Редактировать</string>
+    <string name="registration">Зарегистрироваться</string>
+    <string name="repeat_enter_password">Повтор пароля</string>
+    <string name="retry">Повтор</string>
+    <string name="retry_loading">Повторить</string>
+    <string name="save">Сохранить</string>
+    <string name="sign_in">Войти</string>
+    <string name="sign_in_button">Вход</string>
+    <string name="sign_in_name">Авторизация</string>
+    <string name="sign_login">Логин</string>
+    <string name="sign_name_user">Имя пользователя</string>
+    <string name="sign_password">Пароль</string>
+    <string name="sign_repeat_password">Повтор пароля</string>
+    <string name="sign_up">Зарегистрироваться</string>
+    <string name="sign_up_name">Регистрация</string>
+    <string name="wrong_password">Неверный пароль. Поторите попытку</string>
+
+</resources>

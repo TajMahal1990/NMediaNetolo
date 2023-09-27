@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="common_spacing_extra_large">32dp</dimen>
+    <dimen name="common_spacing_large">16dp</dimen>
+    <dimen name="common_spacing_medium">8dp</dimen>
+    <dimen name="common_spacing_small">4dp</dimen>
+    <dimen name="common_spacing_0dp">0dp</dimen>
+
+    <dimen name="posts_avatar_size">48dp</dimen>
+    <dimen name="button_size">24dp</dimen>
+    <dimen name="button_size_large">48dp</dimen>
+
+    <dimen name="sign_spacing_bigger">200dp</dimen>
+    <dimen name="sign_spacing_extra_large">128dp</dimen>
+    <dimen name="sign_spacing_large">64dp</dimen>
+    <dimen name="sign_spacing_medium">32dp</dimen>
+    <dimen name="sign_spacing_small">16dp</dimen>
+
+    <dimen name="sign_name_size">36sp</dimen>
+    <dimen name="button_text_size">14sp</dimen>
+    <dimen name="edit_text_size">12sp</dimen>
+
+</resources>

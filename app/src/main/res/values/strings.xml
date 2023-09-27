@@ -1,0 +1,62 @@
+<resources>
+
+    <string name="app_name">NMedia</string>
+    <string name="channel_remote_description">Notifications from remote server</string>
+    <string name="channel_remote_name">Server notifications</string>
+    <string name="chooser_share_post">Share post</string>
+    <string name="clear">Clear</string>
+    <string name="description_add_post" translatable="false" />
+    <string name="description_background_video" translatable="false" />
+    <string name="description_bottom_line_edit" translatable="false" />
+    <string name="description_cancel" translatable="false" />
+    <string name="description_edit" translatable="false" />
+    <string name="description_image_full_screen" translatable="false" />
+    <string name="description_like" translatable="false" />
+    <string name="description_liked" translatable="false" />
+    <string name="description_more_vert" translatable="false" />
+    <string name="description_photo" translatable="false" />
+    <string name="description_pick_photo" translatable="false" />
+    <string name="description_play" translatable="false" />
+    <string name="description_post_attachment" translatable="false" />
+    <string name="description_post_author_avatar" translatable="false" />
+    <string name="description_post_like" translatable="false" />
+    <string name="description_save" translatable="false" />
+    <string name="description_save_post" translatable="false" />
+    <string name="description_share" translatable="false" />
+    <string name="description_take_photo" translatable="false" />
+    <string name="description_view" translatable="false" />
+    <string name="edit_message">Edit Message</string>
+    <string name="empty_content_error">Content is empty</string>
+    <string name="empty_post_error">Post is blank</string>
+    <string name="empty_posts">There are no posts.\nIf you create a new post, it will appear here</string>
+    <string name="error_loading">Something went wrong. Try again later</string>
+    <string name="error_notification_text">Please update the application for correct operation</string>
+    <string name="error_notification_title">You are using an old version of the application</string>
+    <string name="google_play_unavailable">Google API Unavailable</string>
+    <string name="logout">Logout</string>
+    <string name="main_screen_message">NMedia!</string>
+    <string name="name">Name</string>
+    <string name="new_posts">New Posts</string>
+    <string name="notification_user_liked">User %1$s liked %2$s\'s post</string>
+    <string name="notification_user_login">Login user by id %1$s</string>
+    <string name="notification_user_new_posted">%1$s posted a new post</string>
+    <string name="post_input_text_hint">Edit Post text</string>
+    <string name="post_menu_edit">Edit</string>
+    <string name="post_menu_remove">Remove</string>
+    <string name="registration">Register</string>
+    <string name="repeat_enter_password">Repeat Enter Password</string>
+    <string name="retry">Retry</string>
+    <string name="retry_loading">Retry</string>
+    <string name="save">Save</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_button">Enter</string>
+    <string name="sign_in_name">Authorization</string>
+    <string name="sign_login">Login</string>
+    <string name="sign_name_user">User Name</string>
+    <string name="sign_password">Password</string>
+    <string name="sign_repeat_password">Repeat Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_up_name">Registration</string>
+    <string name="wrong_password">Wrong password. Try again</string>
+
+</resources>
